@@ -1,5 +1,5 @@
 ---
-title: 'The Science Accssibility Project'
+- title: 'The Science Accssibility Project'
 tags:
   - example
   - tags
