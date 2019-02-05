@@ -1,18 +1,18 @@
 ---
-title: 'Fidgit: An ungodly union of GitHub and figshare'
+title: 'The Science Accssibility Project'
 tags:
   - example
   - tags
   - for the paper
 authors:
- - name: Arfon M Smith
-   orcid: 0000-0003-0872-7098
+ - name: Russell Jarvis
+   orcid: 0000-0003-0281-2849
    affiliation: "1, 2"
  - name: Mickey Mouse
    orcid: 0000-0003-0872-7098
    affiliation: 2
 affiliations:
- - name: Space Telescope Science Insitute
+ - name: ASU school of Life Sciences.
    index: 1
  - name: Disney Inc.
    index: 2
@@ -27,3 +27,7 @@ This is a proof of concept integration between a GitHub [@GitHub] repo and figsh
 -![Fidgit deposited in figshare.](figshare_article.png)
 
 # References
+
+Kincaid, J. Peter, et al. "Derivation of new readability formulas (automated readability index, fog count and flesch reading ease formula) for navy enlisted personnel." (1975).
+
+Kuhn, Tobias. (2016). The Controlled Natural Language of Randall Munroe's Thing Explainer. 
